@@ -55,3 +55,5 @@ for lokasi, data in data_panen.items():
         print(f"Lokasi {data['nama_lokasi']} memerlukan perhatian khusus.")
     else:
         print(f"Lokasi {data['nama_lokasi']} dalam kondisi baik.")
+
+# perubahan
